@@ -12,7 +12,6 @@
 - 📱 Mobile: React Native, Expo
 - 🔙 Backend: Node.js, Gin (Go), Express, Supabase, MySQL
 - ☁️ DevOps & Tools: Docker, Git, GitHub Actions, Vercel, Air
-- 🧠 Other: REST API, JWT, OAuth2, Caching (NodeCache), Automation
 
 ---
 
