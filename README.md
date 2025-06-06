@@ -7,15 +7,45 @@
 ---
 
 ## 🔧 Tech Stack
-💻 Languages: JavaScript, TypeScript, Go (Gin), Python, SQL
+---
 
-🌐 Frontend: React.js, Next.js, TailwindCSS, NextUI
+## 🧠 Tech I Use
 
-📱 Mobile: React Native, Expo
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go (Gin) &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> SQL/MySQL
+</p>
 
-🔙 Backend: Node.js, Gin (Go), Express, Supabase, MySQL
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React.js &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> Next.js &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20"/> TailwindCSS &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4" width="20"/> NextUI
+</p>
 
-☁️ DevOps & Tools: Docker, Git, GitHub Actions, Vercel, Air
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React Native &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" width="20"/> Expo
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> Node.js &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> Express &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Gin &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/82912348?s=200&v=4" width="20"/> Supabase
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> Docker &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub Actions &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="20"/> Vercel &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/68387510?s=200&v=4" width="20"/> Air
+</p>
+
 
 
 ---
