@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm น้ำพุ 👋</h1>
+<h1 align="center">Hi, I'm Namphuu(น้ำพุ) 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer | CRM Specialist | SaaS Builder 🚀</em>
+  <em>Full Stack Developer | SaaS Builder | Mobile Developer | Frontend Developer | Backend Developer 🚀</em>
 </p>
 
 ---
@@ -19,7 +19,6 @@
 | Project        | Description                                         | Tech Used                 |
 |----------------|-----------------------------------------------------|---------------------------|
 | **PromoPilot** | ระบบแจกคูปอง SaaS พร้อม segmentation + automation | Go, Supabase, LINE API    |
-| **SmartCRM**   | ระบบ CRM สำหรับ Sale/Admin พร้อม Dashboard         | React, Node.js, MySQL     |
 | **RFM Engine** | ระบบวิเคราะห์ลูกค้าอัตโนมัติด้วย RFM             | Node.js, Knex.js, Charts  |
 
 🛠 More at [pinned repositories below ↓](#)
