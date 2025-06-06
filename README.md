@@ -9,6 +9,7 @@
 ## 🔧 Tech Stack
 - 💻 Languages: JavaScript, TypeScript, Go (Gin), Python, SQL
 - 🌐 Frontend: React.js, Next.js, TailwindCSS, NextUI
+- 📱 Mobile: React Native, Expo
 - 🔙 Backend: Node.js, Gin (Go), Express, Supabase, MySQL
 - ☁️ DevOps & Tools: Docker, Git, GitHub Actions, Vercel, Air
 - 🧠 Other: REST API, JWT, OAuth2, Caching (NodeCache), Automation
@@ -16,12 +17,29 @@
 ---
 
 ## 🧩 Highlight Projects
-| Project        | Description                                         | Tech Used                 |
-|----------------|-----------------------------------------------------|---------------------------|
-| **PromoPilot** | ระบบแจกคูปอง SaaS พร้อม segmentation + automation | Go, Supabase, LINE API    |
-| **RFM Engine** | ระบบวิเคราะห์ลูกค้าอัตโนมัติด้วย RFM             | Node.js, Knex.js, Charts  |
+| Project         | Description                                         | Tech Used                      |
+|------------------|-----------------------------------------------------|---------------------------------|
+| **PromoPilot**   | ระบบแจกคูปอง SaaS พร้อม segmentation + automation | Go, Supabase, LINE API         |
+| **RFM Engine**   | ระบบวิเคราะห์ลูกค้าอัตโนมัติด้วย RFM             | Node.js, Knex.js, Charts       |
+| **VortexLabs**   | แอปมือถือ React Native + Expo                       | React Native, Expo, TypeScript |
 
 🛠 More at [pinned repositories below ↓](#)
+
+---
+
+## 📱 Mobile App Highlight
+
+### ⚡ VortexLabs (Built with React Native + Expo)
+> แอปมือถือที่คุณออกแบบและพัฒนาด้วย React Native พร้อมใช้ Expo CLI
+
+- Cross-platform (iOS + Android)
+- Stack: React Native, Expo, TypeScript
+- ฟีเจอร์หลัก: UI/UX animation, local storage, REST API integration
+- Repository: [VortexLabs](https://github.com/sutthinonp/VortexLabs)
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutthinonp&repo=VortexLabs&theme=radical" />
+</p>
 
 ---
 
@@ -39,4 +57,3 @@
 - Email: sutthinon203@gmail.com
 - Phone: 097-254-2733
 - Location: Bangkok, Thailand
-
