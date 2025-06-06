@@ -21,7 +21,7 @@
 |------------------|-----------------------------------------------------|---------------------------------|
 | **PromoPilot**   | ระบบแจกคูปอง SaaS พร้อม segmentation + automation | Go, Supabase, LINE API         |
 | **RFM Engine**   | ระบบวิเคราะห์ลูกค้าอัตโนมัติด้วย RFM             | Node.js, Knex.js, Charts       |
-| **VortexLabs**   | แอปมือถือ React Native + Expo                       | React Native, Expo, TypeScript |
+| **VortexLabs**   | แอปพลิเคชัน React Native + Expo                       | React Native, Expo, TypeScript |
 
 🛠 More at [pinned repositories below ↓](#)
 
