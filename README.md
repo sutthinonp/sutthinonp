@@ -7,11 +7,16 @@
 ---
 
 ## 🔧 Tech Stack
-- 💻 Languages: JavaScript, TypeScript, Go (Gin), Python, SQL
-- 🌐 Frontend: React.js, Next.js, TailwindCSS, NextUI
-- 📱 Mobile: React Native, Expo
-- 🔙 Backend: Node.js, Gin (Go), Express, Supabase, MySQL
-- ☁️ DevOps & Tools: Docker, Git, GitHub Actions, Vercel, Air
+💻 Languages: JavaScript, TypeScript, Go (Gin), Python, SQL
+
+🌐 Frontend: React.js, Next.js, TailwindCSS, NextUI
+
+📱 Mobile: React Native, Expo
+
+🔙 Backend: Node.js, Gin (Go), Express, Supabase, MySQL
+
+☁️ DevOps & Tools: Docker, Git, GitHub Actions, Vercel, Air
+
 
 ---
 
