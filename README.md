@@ -30,7 +30,6 @@
 ## 📱 Mobile App
 
 ### ⚡ VortexLabs (Built with React Native + Expo)
-> แอปมือถือที่คุณออกแบบและพัฒนาด้วย React Native พร้อมใช้ Expo CLI
 
 - Cross-platform (iOS + Android)
 - Stack: React Native, Expo, TypeScript
