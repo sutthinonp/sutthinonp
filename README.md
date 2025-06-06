@@ -37,5 +37,5 @@
 ## 📬 Contact Me
 - LINE: miszhacker
 - Email: sutthinon203@gmail.com
-- LinkedIn: [your-linkedin-url](#)
+- Phone: 097-254-2733
 
