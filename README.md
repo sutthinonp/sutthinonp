@@ -27,7 +27,7 @@
 
 ---
 
-## 📱 Mobile App Highlight
+## 📱 Mobile App
 
 ### ⚡ VortexLabs (Built with React Native + Expo)
 > แอปมือถือที่คุณออกแบบและพัฒนาด้วย React Native พร้อมใช้ Expo CLI
