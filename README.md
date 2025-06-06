@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hopefuldev2&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopefuldev2&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sutthinonp&show_icons=true&theme=radical&count_private=false&hide=stars,prs,issues" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutthinonp&theme=radical" />
 </p>
 
 ---
@@ -38,4 +38,5 @@
 - LINE: miszhacker
 - Email: sutthinon203@gmail.com
 - Phone: 097-254-2733
+- Location: Bangkok, Thailand
 
