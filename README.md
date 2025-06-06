@@ -76,7 +76,6 @@
 ---
 
 ## 📬 Contact Me
-- LINE: miszhacker
-- Email: sutthinon203@gmail.com
-- Phone: 097-254-2733
-- Location: Bangkok, Thailand
+- 📱 LINE: `miszhacker`  
+- 📧 Email: `sutthinon203@gmail.com`  
+- 📍 Location: Bangkok, Thailand
