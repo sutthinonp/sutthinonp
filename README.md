@@ -36,7 +36,7 @@
 ---
 
 ## 📬 Contact Me
-- LINE: @yourlineid
-- Email: hopefuldev2@gmail.com
+- LINE: miszhacker
+- Email: sutthinon203@gmail.com
 - LinkedIn: [your-linkedin-url](#)
 
