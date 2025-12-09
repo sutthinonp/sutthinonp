@@ -56,6 +56,7 @@
 
 ### Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub Desktop](https://img.shields.io/badge/-GitHub_Desktop-2088FF?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
 ![Docker Desktop](https://img.shields.io/badge/-Docker_Desktop-2496ED?style=flat&logo=docker&logoColor=fff)
