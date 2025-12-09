@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Namphuu(น้ำพุ) 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer · SaaS Builder · Mobile Developer</em>
+  <em>Full Stack Developer / Mobile Developer</em>
 </p>
 
 ---
