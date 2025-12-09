@@ -1,10 +1,8 @@
-<h1 align="center">Hi, I'm Namphuu(น้ำพุ) 👋</h1>
+<h1 align="center">Hi, I'm Namphuu(น้ำพุ)</h1>
 
 <p align="center">
   <em>Full Stack Developer / Mobile Developer</em>
 </p>
-
----
 
 ## Tech Stack
 
@@ -37,17 +35,6 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
 ![Air](https://img.shields.io/badge/-Air-00ADD8?style=flat&logo=go&logoColor=white)
-
----
-## Mobile App
-
-### VortexLabs (Built with React Native + Expo)
-
-- Cross-platform (iOS + Android)
-- Stack: React Native, Expo, TypeScript
-- ฟีเจอร์หลัก: UI/UX animation, local storage, REST API integration
-- Repository: [VortexLabs](https://github.com/sutthinonp/VortexLabs)
----
 
 ## Contact Me
 - LINE: `miszhacker`  
