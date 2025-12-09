@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -39,21 +39,9 @@
 ![Air](https://img.shields.io/badge/-Air-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
+## Mobile App
 
-## 🧩 Highlight Projects
-| Project         | Description                                         | Tech Used                      |
-|------------------|-----------------------------------------------------|---------------------------------|
-| **PromoPilot**   | ระบบแจกคูปอง SaaS พร้อม segmentation + automation | Go, Supabase, LINE API         |
-| **RFM Engine**   | ระบบวิเคราะห์ลูกค้าอัตโนมัติด้วย RFM             | Node.js, Knex.js, Charts       |
-| **VortexLabs**   | แอปพลิเคชัน React Native + Expo                       | React Native, Expo, TypeScript |
-
-🛠 More at [pinned repositories below ↓](#)
-
----
-
-## 📱 Mobile App
-
-### ⚡ VortexLabs (Built with React Native + Expo)
+### VortexLabs (Built with React Native + Expo)
 
 - Cross-platform (iOS + Android)
 - Stack: React Native, Expo, TypeScript
@@ -66,16 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutthinonp&show_icons=true&theme=radical&count_private=false&hide=stars,prs,issues" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutthinonp&theme=radical" />
-</p>
-
----
-
-## 📬 Contact Me
-- 📱 LINE: `miszhacker`  
-- 📧 Email: `sutthinon203@gmail.com`  
-- 📍 Location: Bangkok, Thailand
+## Contact Me
+- LINE: `miszhacker`  
+- Email: `sutthinon203@gmail.com`  
+- Location: Bangkok, Thailand
