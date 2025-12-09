@@ -47,11 +47,6 @@
 - Stack: React Native, Expo, TypeScript
 - ฟีเจอร์หลัก: UI/UX animation, local storage, REST API integration
 - Repository: [VortexLabs](https://github.com/sutthinonp/VortexLabs)
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutthinonp&repo=VortexLabs&theme=radical" />
-</p>
-
 ---
 
 ## Contact Me
