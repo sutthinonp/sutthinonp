@@ -59,7 +59,6 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
-![Air](https://img.shields.io/badge/-Air-00ADD8?style=flat&logo=go&logoColor=white)
 
 ## Contact Me
 - LINE: `miszhacker`  
