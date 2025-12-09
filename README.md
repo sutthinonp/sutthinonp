@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Namphuu</h1>
 
-## Tech Stack
-
 ### Languages  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
